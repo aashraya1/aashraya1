@@ -1,4 +1,3 @@
-## Hi there 👋
 ### Hi there 👋, I'm Aashraya
 - 🔭 I’m currently studying BCA and like full stack development.
 - 🌱 I’m currently learning Nodejs for backend.
